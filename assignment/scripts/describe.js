@@ -30,6 +30,7 @@ if (number >= 2) {
 // We then check if the variable 'name' is equal to the string 'Mary'.
 // If it is, we log 'Hi, Mary!' to the console.
 // If not, we log 'How do you do?' to the console. 
+// Because the variable 'name' != 'Mary', 'How do you do?' is logged to the console.
 
 //CODE
 /*
